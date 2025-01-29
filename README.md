@@ -21,7 +21,7 @@ If you have any suggestions for my projects then by any means conntact me on my 
 </p>
 
 ## Carti Drop in...
-![Countdown](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/propertyinegypt/countdown-badge/main/countdown.json)
+![Countdown](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/propertyinegypt/countdown-badge/refs/heads/main/countdown.json)
 
 
 
