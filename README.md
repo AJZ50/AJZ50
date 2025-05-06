@@ -12,8 +12,8 @@ If you have any suggestions for my projects then by any means conntact me on my 
 
 ## My Statsh
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=propertyinegypt&show_icons=true&theme=dark&hide_border=true" height="195px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=propertyinegypt&layout=donut&theme=dark&hide_border=true" height="195px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AJZ50&show_icons=true&theme=dark&hide_border=true" height="195px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJZ50&layout=donut&theme=dark&hide_border=true" height="195px"/>
 </p>
 <br>
 <p align="center">
