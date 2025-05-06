@@ -20,9 +20,6 @@ If you have any suggestions for my projects then by any means conntact me on my 
 <img src="https://komarev.com/ghpvc/?username=propertyinegypt&style=for-the-badge&color=151515" alt="" />
 </p>
 
-## Carti Drop in...
-![Countdown](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/propertyinegypt/countdown-badge/refs/heads/main/countdown.json)
-
 
 
 
